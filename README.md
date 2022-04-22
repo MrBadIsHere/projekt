@@ -21,8 +21,12 @@
 ## Project objectives
 
 Our project goal is to generate basic signals and audio samples onto board Nexys A7-50T mono audio output. Pulse width modulation (PWM) must be chosen as the method of sound generation. 
+
 Pulse Width Modulation (PWM) is a technique in which the width of a pulse is modulated keeping the time period of the wave constant. We use PWM module to generate a signal whose pulse width is proportional to the amplitude of the sample data. The PWM output signal is then integrated by a low-pass filter to remove
 high frequency components, leaving only the low-frequency content. The output of the lowpass filter provides a reasonable reproduction of the original analog signal.
+### Typical PWM signal waveform
+![image](https://user-images.githubusercontent.com/99733524/164760498-d45016fb-d970-4660-83a6-8f6323eebb69.png)
+
 A fourth order low pass filter is composed of two cascaded second order low pass filter sections. There is no limit to the order of the filter that can be formed; as the order of the filter increases, so does its size.
 
 <a name="hardware"></a>
