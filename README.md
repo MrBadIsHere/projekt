@@ -4,8 +4,8 @@
 
 * Šándor (responsible for xxx)
 * Laban (responsible for xxx)
-* Litovska (responsible for xxx)
-* Nimmerrichter (responsible for xxx)
+* Litovska (responsible for Github page)
+* Nimmerrichter (responsible for VHDL architecture)
 
 ### Table of contents
 
