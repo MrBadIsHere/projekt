@@ -114,10 +114,6 @@ pwm : entity work.pwm
             duty_sw => SW1,
             period =>unsigned (SW)
         );
-
-
-
-
 end Behavioral;
 ```
 <a name="video"></a>
@@ -130,4 +126,4 @@ TBA
 
 ## References
 
-1. 
+1. https://miscircuitos.com/pwm-with-zybo-in-vhdl/
