@@ -121,7 +121,7 @@ end Behavioral;
 
 ## Video
 
-TBA
+https://www.youtube.com/watch?v=g_sF2OYMYu4
 
 <a name="references"></a>
 
