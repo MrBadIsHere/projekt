@@ -128,3 +128,4 @@ TBA
 ## References
 
 1. https://miscircuitos.com/pwm-with-zybo-in-vhdl/
+2. https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual
