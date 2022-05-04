@@ -42,7 +42,7 @@ A fourth order low pass filter is composed of two cascaded second order low pass
 <a name="modules"></a>
 
 ## VHDL modules description and simulations
-
+```
 architecture Behavioral of pwm is
 --Internal signals
 signal fill : natural := 0;  --amount of filled time
@@ -85,11 +85,11 @@ begin
 	end process p_pwm;
 
 end architecture Behavioral;
-
+```
 <a name="top"></a>
 
 ## TOP module description and simulations
-
+```
 entity top is
 Port ( 
   CLK100MHZ : in STD_LOGIC;
@@ -119,7 +119,7 @@ pwm : entity work.pwm
 
 
 end Behavioral;
-
+```
 <a name="video"></a>
 
 ## Video
