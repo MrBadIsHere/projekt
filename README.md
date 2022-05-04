@@ -86,7 +86,7 @@ begin
 
 end architecture Behavioral;
 ```
-![image](images/simulation.png);
+![image](images/simulation.png)
 <a name="top"></a>
 
 ## TOP module description and simulations
